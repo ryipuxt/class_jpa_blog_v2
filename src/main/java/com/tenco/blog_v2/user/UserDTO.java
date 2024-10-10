@@ -27,4 +27,11 @@ public class UserDTO {
                     .build();
         }
     }
+
+    @Data
+    public static class UpdateDTO {
+        private String password;
+        private String email;
+    }
+
 }
