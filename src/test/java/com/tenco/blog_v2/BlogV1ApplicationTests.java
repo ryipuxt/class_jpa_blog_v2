@@ -8,7 +8,6 @@ class BlogV1ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("asdf");
 	}
 
 }
